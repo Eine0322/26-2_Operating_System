@@ -5,3 +5,5 @@
 !Makefile
 !*.gitignore
 !*.tar.gz
+!*.tar.xz
+
